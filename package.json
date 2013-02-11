@@ -1,0 +1,35 @@
+{
+  "name": "node_extensions",
+  "description": "General node.js core library extensions",
+  "homepage": "https://github.com/EricMCornelius/node_extensions",
+  "keywords": [
+    "extensions"
+  ],
+  "author": {
+    "name": "Eric M. Cornelius",
+    "email": "EricMCornelius@gmail.com",
+    "url": "https://github.com/EricMCornelius"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EricMCornelius/node_extensions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EricMCornelius/node_extensions/issues",
+    "email": "EricMCornelius@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/EricMCornelius/node_extensions/blob/master/LICENSE"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": "0.8.*"
+  },
+  "dependencies": {
+    "mkdirp": "0.3.4"
+  }
+}
