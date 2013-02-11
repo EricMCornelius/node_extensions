@@ -30,6 +30,7 @@
     "node": "0.8.*"
   },
   "dependencies": {
-    "mkdirp": "0.3.4"
+    "mkdirp": "0.3.4",
+    "clone": "0.1.5"
   }
 }
